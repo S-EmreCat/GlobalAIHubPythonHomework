@@ -2,10 +2,13 @@
 ####  Global AI Hub - Introduction to Python Programming Course
 ###### - Homework 1
 ------------
-*Take 5 values from the user and write a program that prints the values you get on the screen. 
+Take 5 values from the user and write a program that prints the values you get on the screen. 
 Print the type of values you received in this program on the screen. 
-When using print functions, do not forget to use f-string and format usage in your program.*
+When using print functions, do not forget to use f-string and format usage in your program.
+
 ------------
+
+
 ###### - Homework 2
 ------------
 *User Identification Program The user will be defined. Get the data of this user by input method. Obtain information from user as follow:

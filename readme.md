@@ -28,3 +28,32 @@ When entering the game, the user's name and for example "Welcome John" should be
 When the game is over, exit the game. So let the game end.*
 
 
+------------
+
+
+## **Homework_Course_Project**
+#### Create a Simple Management System:
+
+------------
+
+
+- One student must enter their name and surname.
+- A student who enter name and surname correctly should write "Welcome" on the screen with pring. The Student has the right to enter his/her name and surname incorrectly 3 times.For more than 3 incorrect entries, the system shuts dows and the message "Please try again later" should be printed on the screen.
+- 5 courses should be created and these courses should be kept in a list. All of these lessons should be taken from the user.
+- This student can take a minimum of 3 and a maximum of 5 lessons.
+- This student cannot take less than 3 courses.
+- Otherwise, the message "You failed in class" should be returned to the student by using the return statement.
+- The student must choose one of the courses and take an exam. Add the grades from this course to a dictonary and keep the student's grades in this dictonary as midterm, final and project grades.
+    - Exapmle: {midterm":38, "final":66,"project":89}
+- Percentages for grades
+    -  Midterm: 30%
+    -  Final: 50%
+    - Projext: 20%
+- Determine a course passing grade according to the grades received.
+    - for notes
+        * If the grade is >90, the student should be get AA.
+        * If  70 <grade <90 BB
+        * If  50 <grade <70 CC
+        * If  30 <grade <50 DD
+        * If  30 <grade, let FF take.
+- If the student has received FF. He/She should print his/her failure on the screen.*
